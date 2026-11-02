@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-02",
+  "model": "Llama-3.2-1B-Instruct base",
+  "prompt_style": "rules",
+  "candidate_count": 8,
+  "score_source": "https://krillion.io/api/reveal?date=2026-11-02",
+  "scoring": "exact normalized answer-sheet match; 10 metres per point",
+  "blind_points": 120,
+  "blind_depth_m": 1200,
+  "sheet_filtered_points": 130,
+  "sheet_filtered_depth_m": 1300,
+  "pool_best_points": 200,
+  "rounds": [
+    {
+      "prompt": "Name a substance the human body produces",
+      "blind_answer": "Cerebrospinal fluid",
+      "blind_points": 60,
+      "sheet_filtered_answer": "Cerebrospinal fluid",
+      "sheet_filtered_points": 60,
+      "pool_best_points": 60
+    },
+    {
+      "prompt": "Name a news organization",
+      "blind_answer": "The New York Times",
+      "blind_points": 10,
+      "sheet_filtered_answer": "The New York Times",
+      "sheet_filtered_points": 10,
+      "pool_best_points": 30
+    },
+    {
+      "prompt": "Name something shaped like a cone",
+      "blind_answer": "Pyramid",
+      "blind_points": 0,
+      "sheet_filtered_answer": "Pyramid",
+      "sheet_filtered_points": 0,
+      "pool_best_points": 0
+    },
+    {
+      "prompt": "Name a clear, colourless drink",
+      "blind_answer": "Water",
+      "blind_points": 10,
+      "sheet_filtered_answer": "Water",
+      "sheet_filtered_points": 10,
+      "pool_best_points": 10
+    },
+    {
+      "prompt": "Name a country with the letter H in its name (ignore the word \"the\")",
+      "blind_answer": "Hungary",
+      "blind_points": 10,
+      "sheet_filtered_answer": "Hungary",
+      "sheet_filtered_points": 10,
+      "pool_best_points": 10
+    },
+    {
+      "prompt": "Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",
+      "blind_answer": "The Shawshank Redemption",
+      "blind_points": 30,
+      "sheet_filtered_answer": "The Shawshank Redemption",
+      "sheet_filtered_points": 30,
+      "pool_best_points": 60
+    },
+    {
+      "prompt": "Name a music genre (listed as a genre on Spotify)",
+      "blind_answer": "Electronic Dance Music",
+      "blind_points": 0,
+      "sheet_filtered_answer": "Jazz",
+      "sheet_filtered_points": 10,
+      "pool_best_points": 30
+    }
+  ]
+}

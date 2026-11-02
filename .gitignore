@@ -10,3 +10,4 @@ results/*
 !results/rerank_summary.json
 !results/today_2026-11-01_score.json
 !results/today_2026-11-02_score.json
+!results/today_2026-11-02_base_score.json
