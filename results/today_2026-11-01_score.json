@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-01",
+  "source_today": "https://krillion.io/api/today",
+  "source_reveal": "https://krillion.io/api/reveal?date=2026-11-01",
+  "scoring": "sum seven official reveal scores, multiply by 10 metres per point",
+  "maximum_depth_m": 7000,
+  "primary": {
+    "prompt_style": "rules",
+    "system_prompt": "You are playing Krillion. Each question accepts one answer. An accepted answer earns more points when it is uncommon: 10, 15, 30, 60, 85, or 100 points. Choose a specific, real answer that fits every condition in the question, and aim for a high rarity tier. Output only the answer, with no explanation.",
+    "points": 305,
+    "depth_m": 3050,
+    "rounds": [
+      {
+        "prompt": "Name someone with over 10 million Instagram followers",
+        "answer": "Gordon Ramsay",
+        "points": 30,
+        "depth_m": 300,
+        "selected_rank": 1
+      },
+      {
+        "prompt": "Name a holiday from anywhere in the world that is celebrated in October, November or December",
+        "answer": "Yom Kippur",
+        "points": 60,
+        "depth_m": 600,
+        "selected_rank": 1
+      },
+      {
+        "prompt": "Name a music release type or format (like an album or CD)",
+        "answer": "Reel-to-reel",
+        "points": 85,
+        "depth_m": 850,
+        "selected_rank": 1
+      },
+      {
+        "prompt": "Name an animal that is native to South America",
+        "answer": "Capybara",
+        "points": 30,
+        "depth_m": 300,
+        "selected_rank": 1
+      },
+      {
+        "prompt": "Name a tool used for digging",
+        "answer": "Trowel",
+        "points": 30,
+        "depth_m": 300,
+        "selected_rank": 1
+      },
+      {
+        "prompt": "Name a chips or crisps brand",
+        "answer": "Doritos",
+        "points": 10,
+        "depth_m": 100,
+        "selected_rank": 1
+      },
+      {
+        "prompt": "Name one of the 1,000 most common first names in the world",
+        "answer": "Evelyn",
+        "points": 60,
+        "depth_m": 600,
+        "selected_rank": 2
+      }
+    ]
+  },
+  "cautious_comparison": {
+    "prompt_style": "cautious",
+    "system_prompt": "You are playing Krillion. Each question accepts one answer. An accepted answer earns more points when it is uncommon: 10, 15, 30, 60, 85, or 100 points. Choose a specific, real answer that fits every condition in the question, and aim for a high rarity tier without risking an invalid answer. Output only the answer, with no explanation.",
+    "points": 275,
+    "depth_m": 2750,
+    "rounds": [
+      {
+        "prompt": "Name someone with over 10 million Instagram followers",
+        "answer": "Gordon Ramsay",
+        "points": 30,
+        "depth_m": 300,
+        "selected_rank": 1
+      },
+      {
+        "prompt": "Name a holiday from anywhere in the world that is celebrated in October, November or December",
+        "answer": "Columbus Day",
+        "points": 30,
+        "depth_m": 300,
+        "selected_rank": 1
+      },
+      {
+        "prompt": "Name a music release type or format (like an album or CD)",
+        "answer": "78 rpm record",
+        "points": 85,
+        "depth_m": 850,
+        "selected_rank": 3
+      },
+      {
+        "prompt": "Name an animal that is native to South America",
+        "answer": "Toucan",
+        "points": 30,
+        "depth_m": 300,
+        "selected_rank": 1
+      },
+      {
+        "prompt": "Name a tool used for digging",
+        "answer": "Trowel",
+        "points": 30,
+        "depth_m": 300,
+        "selected_rank": 1
+      },
+      {
+        "prompt": "Name a chips or crisps brand",
+        "answer": "Doritos",
+        "points": 10,
+        "depth_m": 100,
+        "selected_rank": 2
+      },
+      {
+        "prompt": "Name one of the 1,000 most common first names in the world",
+        "answer": "Marcel",
+        "points": 60,
+        "depth_m": 600,
+        "selected_rank": 5
+      }
+    ]
+  },
+  "legacy_comparison": {
+    "prompt_style": "legacy",
+    "system_prompt": "You are playing Krillion. Give exactly one valid, specific answer to the prompt. Output only the answer, with no explanation.",
+    "points": 190,
+    "depth_m": 1900,
+    "rounds": [
+      {
+        "prompt": "Name someone with over 10 million Instagram followers",
+        "answer": "Kendall Jenner",
+        "points": 30,
+        "depth_m": 300,
+        "selected_rank": 2
+      },
+      {
+        "prompt": "Name a holiday from anywhere in the world that is celebrated in October, November or December",
+        "answer": "Columbus Day",
+        "points": 30,
+        "depth_m": 300,
+        "selected_rank": 1
+      },
+      {
+        "prompt": "Name a music release type or format (like an album or CD)",
+        "answer": "EP",
+        "points": 30,
+        "depth_m": 300,
+        "selected_rank": 3
+      },
+      {
+        "prompt": "Name an animal that is native to South America",
+        "answer": "Toucan",
+        "points": 30,
+        "depth_m": 300,
+        "selected_rank": 1
+      },
+      {
+        "prompt": "Name a tool used for digging",
+        "answer": "Trowel",
+        "points": 30,
+        "depth_m": 300,
+        "selected_rank": 1
+      },
+      {
+        "prompt": "Name a chips or crisps brand",
+        "answer": "Doritos",
+        "points": 10,
+        "depth_m": 100,
+        "selected_rank": 1
+      },
+      {
+        "prompt": "Name one of the 1,000 most common first names in the world",
+        "answer": "Sofia",
+        "points": 30,
+        "depth_m": 300,
+        "selected_rank": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+data/
+results/*
+!results/demo_depth.json
+!results/fresh_summary.json
+!results/rerank_summary.json
+!results/today_2026-11-01_score.json

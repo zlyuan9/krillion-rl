@@ -1,0 +1,2230 @@
+{
+  "depth_formula": "10 metres per point; sum all seven rounds",
+  "maximum_depth_m": 7000,
+  "dive_count": 15,
+  "models": {
+    "base": {
+      "mean_depth_m": 1313.3333333333333,
+      "mean_points": 131.33333333333334,
+      "dives": [
+        {
+          "date": "2026-09-01",
+          "points": 110,
+          "depth_m": 1100,
+          "rounds": [
+            {
+              "prompt": "Name a country in Oceania",
+              "answer": "Australia",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name an animal whose name starts with B (breeds count too)",
+              "answer": "Bald Eagle",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a deep fried food",
+              "answer": "Fried Chicken",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a Transformers character",
+              "answer": "Bumblebee",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a member of the Beatles",
+              "answer": "John Lennon",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country that has territories or dependencies",
+              "answer": "United Kingdom",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name an American airline (U.S.-based, past or present)",
+              "answer": "Alaska Airlines",
+              "points": 30,
+              "depth_m": 300
+            }
+          ]
+        },
+        {
+          "date": "2026-09-02",
+          "points": 130,
+          "depth_m": 1300,
+          "rounds": [
+            {
+              "prompt": "Name a type of gun (types and models both count)",
+              "answer": "AK-47",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a creature you might find in a tide pool",
+              "answer": "Limpet.",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an HBO show",
+              "answer": "Game of Thrones",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a DreamWorks animated character",
+              "answer": "Shrek",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country that was an ally of the Soviet Union during the Cold War",
+              "answer": "Poland",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name an athlete with multiple Olympic gold medals",
+              "answer": "Michael Phelps",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a chess term",
+              "answer": "En passant.",
+              "points": 30,
+              "depth_m": 300
+            }
+          ]
+        },
+        {
+          "date": "2026-09-03",
+          "points": 130,
+          "depth_m": 1300,
+          "rounds": [
+            {
+              "prompt": "Name a capital city in the Americas",
+              "answer": "Mexico City",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name an animal known for camouflage",
+              "answer": "Octopus",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country that fought in World War II",
+              "answer": "Japan",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a language that is an official language of a European country",
+              "answer": "Portuguese",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an astronaut or cosmonaut",
+              "answer": "Chris Hadfield",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a block in Minecraft",
+              "answer": "Chest",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a country smaller than Belgium (by area)",
+              "answer": "Monaco",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-04",
+          "points": 120,
+          "depth_m": 1200,
+          "rounds": [
+            {
+              "prompt": "Name a living mammal native to Africa",
+              "answer": "Aardvark",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an American fast food chain",
+              "answer": "McDonald's",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a Taylor Swift song",
+              "answer": "\"Shake It Off\"",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country that celebrates an independence day",
+              "answer": "India.",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a game in Wii Sports or Wii Sports Resort",
+              "answer": "Wii Sports",
+              "points": 0,
+              "depth_m": 0
+            },
+            {
+              "prompt": "Name a palindrome that's a real English dictionary word",
+              "answer": "Madam",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a European country",
+              "answer": "Ireland",
+              "points": 30,
+              "depth_m": 300
+            }
+          ]
+        },
+        {
+          "date": "2026-09-05",
+          "points": 130,
+          "depth_m": 1300,
+          "rounds": [
+            {
+              "prompt": "Name a national capital city that starts with B",
+              "answer": "Bucharest",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a mammal or reptile that lives in the desert",
+              "answer": "Coyote",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a type of cookie (brands don't count)",
+              "answer": "Oreos",
+              "points": 0,
+              "depth_m": 0
+            },
+            {
+              "prompt": "Name a Seinfeld character",
+              "answer": "Kramer",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a type of engineering",
+              "answer": "Mechanical Engineering",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a unit of distance",
+              "answer": "Kilometer",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a medical instrument",
+              "answer": "Syringe",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-06",
+          "points": 130,
+          "depth_m": 1300,
+          "rounds": [
+            {
+              "prompt": "Name a luxury watch brand",
+              "answer": "Patek Philippe",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a mammal with stripes",
+              "answer": "Zebra",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a style or cut of jeans",
+              "answer": "Boyfriend Jeans",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a Disney song",
+              "answer": "\"Supercalifragilisticexpialidocious\"",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a mode of transportation",
+              "answer": "Bus",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a type of home or dwelling",
+              "answer": "House",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country whose name starts with T",
+              "answer": "Turkey",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-07",
+          "points": 140,
+          "depth_m": 1400,
+          "rounds": [
+            {
+              "prompt": "Name a country where English is an official language",
+              "answer": "Ireland",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an animal that lives in the Arctic or Antarctica",
+              "answer": "Polar bear.",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a dead language",
+              "answer": "Etruscan",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a Mario character",
+              "answer": "Luigi",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country with the letter Y in its name",
+              "answer": "Yemen",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a sport played with a stick, bat, or club",
+              "answer": "Cricket",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a type of bicycle",
+              "answer": "Road Bike",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-08",
+          "points": 90,
+          "depth_m": 900,
+          "rounds": [
+            {
+              "prompt": "Name a city in Canada with over 100,000 people",
+              "answer": "Vancouver",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name an animal with a shell",
+              "answer": "Snail",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a Middle Eastern dish",
+              "answer": "Shawarma",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a Breaking Bad character",
+              "answer": "Jesse Pinkman",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a war fought in the 20th century",
+              "answer": "World War II",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country that borders Brazil",
+              "answer": "Colombia",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a mobile game with over 100 million downloads",
+              "answer": "PUBG Mobile",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "points": 210,
+          "depth_m": 2100,
+          "rounds": [
+            {
+              "prompt": "Name a city in California",
+              "answer": "Los Angeles",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name an animal with horns or antlers",
+              "answer": "Elk",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a Spanish or Portuguese dish",
+              "answer": "Arroz con Pollo",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name an aquatic mammal",
+              "answer": "Seal",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a carnivorous mammal",
+              "answer": "Lynx.",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a video game genre",
+              "answer": "Action-Adventure",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a street suffix (like Street or Avenue)",
+              "answer": "Boulevard",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "points": 140,
+          "depth_m": 1400,
+          "rounds": [
+            {
+              "prompt": "Name someone with over 100 million Instagram followers",
+              "answer": "Kylie Jenner",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a black and white mammal or bird",
+              "answer": "Penguin",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a type of skincare product",
+              "answer": "Moisturizer",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a video game that has earned over $1 billion",
+              "answer": "Grand Theft Auto V",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a Roman god or goddess",
+              "answer": "Juno",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a golf term",
+              "answer": "Pitch",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a literary genre",
+              "answer": "Science Fiction",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-11",
+          "points": 90,
+          "depth_m": 900,
+          "rounds": [
+            {
+              "prompt": "Name a city with more than 10 million people in its metro area",
+              "answer": "Mumbai",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a sacred text of Christianity, Islam, Judaism, Hinduism, or Buddhism",
+              "answer": "Bible",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a part of the human brain",
+              "answer": "Cerebral cortex",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a unit of weight or mass",
+              "answer": "Kilogram",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a Shakespeare protagonist",
+              "answer": "Hamlet",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a protagonist of a Marvel Cinematic Universe movie",
+              "answer": "Spider-Man",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country whose name starts with P",
+              "answer": "Poland",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-12",
+          "points": 230,
+          "depth_m": 2300,
+          "rounds": [
+            {
+              "prompt": "Name a delivery service",
+              "answer": "DHL.",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a country in Eastern Europe",
+              "answer": "Poland",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a word for a huge number (million or bigger)",
+              "answer": "Million",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a tool you would find in a toolbox",
+              "answer": "Pliers",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a chemical element lighter than iron",
+              "answer": "Lithium",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a sport played without a ball",
+              "answer": "Gymnastics",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a country whose name starts with I",
+              "answer": "Iceland",
+              "points": 30,
+              "depth_m": 300
+            }
+          ]
+        },
+        {
+          "date": "2026-09-13",
+          "points": 110,
+          "depth_m": 1100,
+          "rounds": [
+            {
+              "prompt": "Name a Google product",
+              "answer": "Google Drive",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an animal that can top 40 mph (65 km/h)",
+              "answer": "Cheetah",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a grain or cereal crop",
+              "answer": "Wheat",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a character from Avatar: The Last Airbender (the original series, not Korra)",
+              "answer": "Zuko",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country with both a G and an A in its name",
+              "answer": "Ghana",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a theme park chain",
+              "answer": "Six Flags",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a literary device",
+              "answer": "Metaphor",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-14",
+          "points": 130,
+          "depth_m": 1300,
+          "rounds": [
+            {
+              "prompt": "Name a modern country that Alexander the Great's empire reached",
+              "answer": "Bulgaria",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a mammal that lives underground",
+              "answer": "Mole",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a legume",
+              "answer": "Chickpea",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country whose national flag has exactly two colors",
+              "answer": "China",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name an office supply",
+              "answer": "Ballpoint pen",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a movie starring Timothée Chalamet",
+              "answer": "Call Me By Your Name",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a New York Times game",
+              "answer": "The New York Times Crossword",
+              "points": 0,
+              "depth_m": 0
+            }
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "points": 80,
+          "depth_m": 800,
+          "rounds": [
+            {
+              "prompt": "Name something you drink out of",
+              "answer": "Cup.",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a fruit with a core",
+              "answer": "Pineapple",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a leafy green",
+              "answer": "Spinach",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a film directed by Wes Anderson",
+              "answer": "The Grand Budapest Hotel",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name something in a first aid kit",
+              "answer": "Scissors",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a type of diet",
+              "answer": "Vegan",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country with an animal on its flag (constituent countries don't count)",
+              "answer": "Ireland",
+              "points": 0,
+              "depth_m": 0
+            }
+          ]
+        }
+      ]
+    },
+    "sft": {
+      "mean_depth_m": 2656.6666666666665,
+      "mean_points": 265.6666666666667,
+      "dives": [
+        {
+          "date": "2026-09-01",
+          "points": 250,
+          "depth_m": 2500,
+          "rounds": [
+            {
+              "prompt": "Name a country in Oceania",
+              "answer": "Papua New Guinea",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an animal whose name starts with B (breeds count too)",
+              "answer": "Bengal cat",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a deep fried food",
+              "answer": "Hush puppies",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a Transformers character",
+              "answer": "Bumblebee",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a member of the Beatles",
+              "answer": "Pete Best",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a country that has territories or dependencies",
+              "answer": "Tuvalu",
+              "points": 0,
+              "depth_m": 0
+            },
+            {
+              "prompt": "Name an American airline (U.S.-based, past or present)",
+              "answer": "Alaska Airlines",
+              "points": 30,
+              "depth_m": 300
+            }
+          ]
+        },
+        {
+          "date": "2026-09-02",
+          "points": 350,
+          "depth_m": 3500,
+          "rounds": [
+            {
+              "prompt": "Name a type of gun (types and models both count)",
+              "answer": "M1911",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a creature you might find in a tide pool",
+              "answer": "Limpet",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an HBO show",
+              "answer": "The Sopranos",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a DreamWorks animated character",
+              "answer": "Spirit",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a country that was an ally of the Soviet Union during the Cold War",
+              "answer": "Grenada",
+              "points": 100,
+              "depth_m": 1000
+            },
+            {
+              "prompt": "Name an athlete with multiple Olympic gold medals",
+              "answer": "Lidiya Skoblikova",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a chess term",
+              "answer": "En passant",
+              "points": 30,
+              "depth_m": 300
+            }
+          ]
+        },
+        {
+          "date": "2026-09-03",
+          "points": 360,
+          "depth_m": 3600,
+          "rounds": [
+            {
+              "prompt": "Name a capital city in the Americas",
+              "answer": "Caracas",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an animal known for camouflage",
+              "answer": "Chameleon",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country that fought in World War II",
+              "answer": "Czechoslovakia",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a language that is an official language of a European country",
+              "answer": "Catalan",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an astronaut or cosmonaut",
+              "answer": "Svetlana Savitskaya",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a block in Minecraft",
+              "answer": "Magma block",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a country smaller than Belgium (by area)",
+              "answer": "Saint Kitts and Nevis",
+              "points": 85,
+              "depth_m": 850
+            }
+          ]
+        },
+        {
+          "date": "2026-09-04",
+          "points": 305,
+          "depth_m": 3050,
+          "rounds": [
+            {
+              "prompt": "Name a living mammal native to Africa",
+              "answer": "Aardvark",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an American fast food chain",
+              "answer": "El Pollo Loco",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a Taylor Swift song",
+              "answer": "Teardrops on My Guitar",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a country that celebrates an independence day",
+              "answer": "Tuvalu",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a game in Wii Sports or Wii Sports Resort",
+              "answer": "Bowling",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a palindrome that's a real English dictionary word",
+              "answer": "Radar",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a European country",
+              "answer": "Latvia",
+              "points": 60,
+              "depth_m": 600
+            }
+          ]
+        },
+        {
+          "date": "2026-09-05",
+          "points": 210,
+          "depth_m": 2100,
+          "rounds": [
+            {
+              "prompt": "Name a national capital city that starts with B",
+              "answer": "Bandar Seri Begawan",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a mammal or reptile that lives in the desert",
+              "answer": "Desert tortoise",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a type of cookie (brands don't count)",
+              "answer": "Gingersnap",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a Seinfeld character",
+              "answer": "Elaine",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a type of engineering",
+              "answer": "Geotechnical engineering",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a unit of distance",
+              "answer": "Kilometer",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a medical instrument",
+              "answer": "Syringe",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-06",
+          "points": 225,
+          "depth_m": 2250,
+          "rounds": [
+            {
+              "prompt": "Name a luxury watch brand",
+              "answer": "Patek Philippe",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a mammal with stripes",
+              "answer": "Zebra",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a style or cut of jeans",
+              "answer": "Stretch jeans",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a Disney song",
+              "answer": "Heigh-Ho",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a mode of transportation",
+              "answer": "Bicycle",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a type of home or dwelling",
+              "answer": "Ranch house",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a country whose name starts with T",
+              "answer": "Timor-Leste",
+              "points": 85,
+              "depth_m": 850
+            }
+          ]
+        },
+        {
+          "date": "2026-09-07",
+          "points": 215,
+          "depth_m": 2150,
+          "rounds": [
+            {
+              "prompt": "Name a country where English is an official language",
+              "answer": "Papua New Guinea",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name an animal that lives in the Arctic or Antarctica",
+              "answer": "Polar bear",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a dead language",
+              "answer": "Old Church Slavonic",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a Mario character",
+              "answer": "Toad",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country with the letter Y in its name",
+              "answer": "Yemen",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a sport played with a stick, bat, or club",
+              "answer": "Cricket",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a type of bicycle",
+              "answer": "Penny-farthing",
+              "points": 30,
+              "depth_m": 300
+            }
+          ]
+        },
+        {
+          "date": "2026-09-08",
+          "points": 180,
+          "depth_m": 1800,
+          "rounds": [
+            {
+              "prompt": "Name a city in Canada with over 100,000 people",
+              "answer": "Winnipeg",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an animal with a shell",
+              "answer": "Pangolin",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a Middle Eastern dish",
+              "answer": "Shawarma",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a Breaking Bad character",
+              "answer": "Hank Schrader",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a war fought in the 20th century",
+              "answer": "World War I",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country that borders Brazil",
+              "answer": "Bolivia",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a mobile game with over 100 million downloads",
+              "answer": "Clash of Clans",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "points": 305,
+          "depth_m": 3050,
+          "rounds": [
+            {
+              "prompt": "Name a city in California",
+              "answer": "Bakersfield",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name an animal with horns or antlers",
+              "answer": "Reindeer",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a Spanish or Portuguese dish",
+              "answer": "Bacalhau à brás",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name an aquatic mammal",
+              "answer": "Walrus",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a carnivorous mammal",
+              "answer": "Aardvark",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a video game genre",
+              "answer": "Roguelike",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a street suffix (like Street or Avenue)",
+              "answer": "Boulevard",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "points": 300,
+          "depth_m": 3000,
+          "rounds": [
+            {
+              "prompt": "Name someone with over 100 million Instagram followers",
+              "answer": "Lil Nas X",
+              "points": 0,
+              "depth_m": 0
+            },
+            {
+              "prompt": "Name a black and white mammal or bird",
+              "answer": "Penguin",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a type of skincare product",
+              "answer": "Aloe vera gel",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a video game that has earned over $1 billion",
+              "answer": "The Legend of Zelda: Majora's Mask",
+              "points": 0,
+              "depth_m": 0
+            },
+            {
+              "prompt": "Name a Roman god or goddess",
+              "answer": "Aesculapius",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a golf term",
+              "answer": "Wedge shot",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a literary genre",
+              "answer": "Magical realism",
+              "points": 60,
+              "depth_m": 600
+            }
+          ]
+        },
+        {
+          "date": "2026-09-11",
+          "points": 330,
+          "depth_m": 3300,
+          "rounds": [
+            {
+              "prompt": "Name a city with more than 10 million people in its metro area",
+              "answer": "Chongqing",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a sacred text of Christianity, Islam, Judaism, Hinduism, or Buddhism",
+              "answer": "Zohar",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a part of the human brain",
+              "answer": "Anterior cingulate cortex",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a unit of weight or mass",
+              "answer": "Kilogram",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a Shakespeare protagonist",
+              "answer": "The Merchant of Venice",
+              "points": 0,
+              "depth_m": 0
+            },
+            {
+              "prompt": "Name a protagonist of a Marvel Cinematic Universe movie",
+              "answer": "Hawkeye",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a country whose name starts with P",
+              "answer": "Papua New Guinea",
+              "points": 60,
+              "depth_m": 600
+            }
+          ]
+        },
+        {
+          "date": "2026-09-12",
+          "points": 355,
+          "depth_m": 3550,
+          "rounds": [
+            {
+              "prompt": "Name a delivery service",
+              "answer": "DHL",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a country in Eastern Europe",
+              "answer": "Moldova",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a word for a huge number (million or bigger)",
+              "answer": "Milliard",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a tool you would find in a toolbox",
+              "answer": "Tape measure",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a chemical element lighter than iron",
+              "answer": "Lithium",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a sport played without a ball",
+              "answer": "Gymnastics",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a country whose name starts with I",
+              "answer": "Iceland",
+              "points": 30,
+              "depth_m": 300
+            }
+          ]
+        },
+        {
+          "date": "2026-09-13",
+          "points": 230,
+          "depth_m": 2300,
+          "rounds": [
+            {
+              "prompt": "Name a Google product",
+              "answer": "Google Calendar",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an animal that can top 40 mph (65 km/h)",
+              "answer": "Peregrine falcon",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a grain or cereal crop",
+              "answer": "Sorghum",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a character from Avatar: The Last Airbender (the original series, not Korra)",
+              "answer": "Iroh",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a country with both a G and an A in its name",
+              "answer": "Gambia",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a theme park chain",
+              "answer": "Six Flags",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a literary device",
+              "answer": "Alliteration",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-14",
+          "points": 180,
+          "depth_m": 1800,
+          "rounds": [
+            {
+              "prompt": "Name a modern country that Alexander the Great's empire reached",
+              "answer": "Kazakhstan",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a mammal that lives underground",
+              "answer": "Mole",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a legume",
+              "answer": "Mung bean",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a country whose national flag has exactly two colors",
+              "answer": "Bolivia",
+              "points": 0,
+              "depth_m": 0
+            },
+            {
+              "prompt": "Name an office supply",
+              "answer": "Pencil sharpener",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a movie starring Timothée Chalamet",
+              "answer": "Call Me By Your Name",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a New York Times game",
+              "answer": "The Crossword",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "points": 190,
+          "depth_m": 1900,
+          "rounds": [
+            {
+              "prompt": "Name something you drink out of",
+              "answer": "Glass",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a fruit with a core",
+              "answer": "Guanabana",
+              "points": 0,
+              "depth_m": 0
+            },
+            {
+              "prompt": "Name a leafy green",
+              "answer": "Swiss chard",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a film directed by Wes Anderson",
+              "answer": "The Life Aquatic with Steve Zissou",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name something in a first aid kit",
+              "answer": "Tourniquet",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a type of diet",
+              "answer": "Alkaline diet",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a country with an animal on its flag (constituent countries don't count)",
+              "answer": "Bhutan",
+              "points": 30,
+              "depth_m": 300
+            }
+          ]
+        }
+      ]
+    },
+    "grpo": {
+      "mean_depth_m": 2643.3333333333335,
+      "mean_points": 264.3333333333333,
+      "dives": [
+        {
+          "date": "2026-09-01",
+          "points": 250,
+          "depth_m": 2500,
+          "rounds": [
+            {
+              "prompt": "Name a country in Oceania",
+              "answer": "Papua New Guinea",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an animal whose name starts with B (breeds count too)",
+              "answer": "Bengal cat",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a deep fried food",
+              "answer": "Hush puppies",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a Transformers character",
+              "answer": "Bumblebee",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a member of the Beatles",
+              "answer": "Pete Best",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a country that has territories or dependencies",
+              "answer": "Tuvalu",
+              "points": 0,
+              "depth_m": 0
+            },
+            {
+              "prompt": "Name an American airline (U.S.-based, past or present)",
+              "answer": "Alaska Airlines",
+              "points": 30,
+              "depth_m": 300
+            }
+          ]
+        },
+        {
+          "date": "2026-09-02",
+          "points": 180,
+          "depth_m": 1800,
+          "rounds": [
+            {
+              "prompt": "Name a type of gun (types and models both count)",
+              "answer": "M1911",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a creature you might find in a tide pool",
+              "answer": "Limpet",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an HBO show",
+              "answer": "The Sopranos",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a DreamWorks animated character",
+              "answer": "Shrek",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country that was an ally of the Soviet Union during the Cold War",
+              "answer": "Latvia",
+              "points": 0,
+              "depth_m": 0
+            },
+            {
+              "prompt": "Name an athlete with multiple Olympic gold medals",
+              "answer": "Lidiya Skoblikova",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a chess term",
+              "answer": "Castling",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-03",
+          "points": 355,
+          "depth_m": 3550,
+          "rounds": [
+            {
+              "prompt": "Name a capital city in the Americas",
+              "answer": "Caracas",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an animal known for camouflage",
+              "answer": "Snowshoe hare",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a country that fought in World War II",
+              "answer": "Czechoslovakia",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a language that is an official language of a European country",
+              "answer": "Bosnian",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name an astronaut or cosmonaut",
+              "answer": "Svetlana Savitskaya",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a block in Minecraft",
+              "answer": "Glowstone",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a country smaller than Belgium (by area)",
+              "answer": "Luxembourg",
+              "points": 30,
+              "depth_m": 300
+            }
+          ]
+        },
+        {
+          "date": "2026-09-04",
+          "points": 310,
+          "depth_m": 3100,
+          "rounds": [
+            {
+              "prompt": "Name a living mammal native to Africa",
+              "answer": "Aardvark",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an American fast food chain",
+              "answer": "Wendy's",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a Taylor Swift song",
+              "answer": "Teardrops on My Guitar",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a country that celebrates an independence day",
+              "answer": "Mauritius",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a game in Wii Sports or Wii Sports Resort",
+              "answer": "Bowling",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a palindrome that's a real English dictionary word",
+              "answer": "Repaper",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a European country",
+              "answer": "Latvia",
+              "points": 60,
+              "depth_m": 600
+            }
+          ]
+        },
+        {
+          "date": "2026-09-05",
+          "points": 210,
+          "depth_m": 2100,
+          "rounds": [
+            {
+              "prompt": "Name a national capital city that starts with B",
+              "answer": "Bandar Seri Begawan",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a mammal or reptile that lives in the desert",
+              "answer": "Desert tortoise",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a type of cookie (brands don't count)",
+              "answer": "Gingersnap",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a Seinfeld character",
+              "answer": "Elaine",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a type of engineering",
+              "answer": "Geotechnical engineering",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a unit of distance",
+              "answer": "Kilometer",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a medical instrument",
+              "answer": "Syringe",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-06",
+          "points": 305,
+          "depth_m": 3050,
+          "rounds": [
+            {
+              "prompt": "Name a luxury watch brand",
+              "answer": "Vacheron Constantin",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a mammal with stripes",
+              "answer": "Zebra",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a style or cut of jeans",
+              "answer": "Stretch jeans",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a Disney song",
+              "answer": "Bibbidi-Bobbidi-Boo",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a mode of transportation",
+              "answer": "Monorail",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a type of home or dwelling",
+              "answer": "Ranch house",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a country whose name starts with T",
+              "answer": "Timor-Leste",
+              "points": 85,
+              "depth_m": 850
+            }
+          ]
+        },
+        {
+          "date": "2026-09-07",
+          "points": 240,
+          "depth_m": 2400,
+          "rounds": [
+            {
+              "prompt": "Name a country where English is an official language",
+              "answer": "Saint Vincent and the Grenadines",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name an animal that lives in the Arctic or Antarctica",
+              "answer": "Polar bear",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a dead language",
+              "answer": "Old Church Slavonic",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a Mario character",
+              "answer": "Toad",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country with the letter Y in its name",
+              "answer": "Yemen",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a sport played with a stick, bat, or club",
+              "answer": "Cricket",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a type of bicycle",
+              "answer": "Penny-farthing",
+              "points": 30,
+              "depth_m": 300
+            }
+          ]
+        },
+        {
+          "date": "2026-09-08",
+          "points": 255,
+          "depth_m": 2550,
+          "rounds": [
+            {
+              "prompt": "Name a city in Canada with over 100,000 people",
+              "answer": "Winnipeg",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an animal with a shell",
+              "answer": "Softshell turtle",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a Middle Eastern dish",
+              "answer": "Shawarma",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a Breaking Bad character",
+              "answer": "Hank Schrader",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a war fought in the 20th century",
+              "answer": "Yom Kippur War",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a country that borders Brazil",
+              "answer": "Paraguay",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a mobile game with over 100 million downloads",
+              "answer": "Candy Crush Saga",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "points": 310,
+          "depth_m": 3100,
+          "rounds": [
+            {
+              "prompt": "Name a city in California",
+              "answer": "Bakersfield",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name an animal with horns or antlers",
+              "answer": "Reindeer",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a Spanish or Portuguese dish",
+              "answer": "Arroz con pollo",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name an aquatic mammal",
+              "answer": "Narwhal",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a carnivorous mammal",
+              "answer": "Aardvark",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a video game genre",
+              "answer": "Roguelike",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a street suffix (like Street or Avenue)",
+              "answer": "Boulevard",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "points": 285,
+          "depth_m": 2850,
+          "rounds": [
+            {
+              "prompt": "Name someone with over 100 million Instagram followers",
+              "answer": "Dixie D'Amelio",
+              "points": 0,
+              "depth_m": 0
+            },
+            {
+              "prompt": "Name a black and white mammal or bird",
+              "answer": "Ostrich",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a type of skincare product",
+              "answer": "Chemical exfoliant",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a video game that has earned over $1 billion",
+              "answer": "The Legend of Zelda: Breath of the Wild",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a Roman god or goddess",
+              "answer": "Venus",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a golf term",
+              "answer": "Bunker",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a literary genre",
+              "answer": "Gothic",
+              "points": 60,
+              "depth_m": 600
+            }
+          ]
+        },
+        {
+          "date": "2026-09-11",
+          "points": 245,
+          "depth_m": 2450,
+          "rounds": [
+            {
+              "prompt": "Name a city with more than 10 million people in its metro area",
+              "answer": "Knoxville",
+              "points": 0,
+              "depth_m": 0
+            },
+            {
+              "prompt": "Name a sacred text of Christianity, Islam, Judaism, Hinduism, or Buddhism",
+              "answer": "Apocrypha",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a part of the human brain",
+              "answer": "Anterior cingulate cortex",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a unit of weight or mass",
+              "answer": "Pound",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a Shakespeare protagonist",
+              "answer": "Lysander",
+              "points": 0,
+              "depth_m": 0
+            },
+            {
+              "prompt": "Name a protagonist of a Marvel Cinematic Universe movie",
+              "answer": "Hawkeye",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a country whose name starts with P",
+              "answer": "Papua New Guinea",
+              "points": 60,
+              "depth_m": 600
+            }
+          ]
+        },
+        {
+          "date": "2026-09-12",
+          "points": 410,
+          "depth_m": 4100,
+          "rounds": [
+            {
+              "prompt": "Name a delivery service",
+              "answer": "DHL",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a country in Eastern Europe",
+              "answer": "Moldova",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a word for a huge number (million or bigger)",
+              "answer": "Milliard",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a tool you would find in a toolbox",
+              "answer": "Tape measure",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a chemical element lighter than iron",
+              "answer": "Manganese",
+              "points": 85,
+              "depth_m": 850
+            },
+            {
+              "prompt": "Name a sport played without a ball",
+              "answer": "Tug of war",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a country whose name starts with I",
+              "answer": "Iceland",
+              "points": 30,
+              "depth_m": 300
+            }
+          ]
+        },
+        {
+          "date": "2026-09-13",
+          "points": 210,
+          "depth_m": 2100,
+          "rounds": [
+            {
+              "prompt": "Name a Google product",
+              "answer": "Google Calendar",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name an animal that can top 40 mph (65 km/h)",
+              "answer": "Peregrine falcon",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a grain or cereal crop",
+              "answer": "Sorghum",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a character from Avatar: The Last Airbender (the original series, not Korra)",
+              "answer": "Zuko",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country with both a G and an A in its name",
+              "answer": "Gambia",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a theme park chain",
+              "answer": "Six Flags",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a literary device",
+              "answer": "Alliteration",
+              "points": 10,
+              "depth_m": 100
+            }
+          ]
+        },
+        {
+          "date": "2026-09-14",
+          "points": 140,
+          "depth_m": 1400,
+          "rounds": [
+            {
+              "prompt": "Name a modern country that Alexander the Great's empire reached",
+              "answer": "Afghanistan",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a mammal that lives underground",
+              "answer": "Mole",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a legume",
+              "answer": "Cowpea",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a country whose national flag has exactly two colors",
+              "answer": "Nauru",
+              "points": 0,
+              "depth_m": 0
+            },
+            {
+              "prompt": "Name an office supply",
+              "answer": "Pencil sharpener",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a movie starring Timothée Chalamet",
+              "answer": "Call Me By Your Name",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a New York Times game",
+              "answer": "The New York Times Crossword",
+              "points": 0,
+              "depth_m": 0
+            }
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "points": 260,
+          "depth_m": 2600,
+          "rounds": [
+            {
+              "prompt": "Name something you drink out of",
+              "answer": "Cup",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a fruit with a core",
+              "answer": "Breadfruit",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a leafy green",
+              "answer": "Swiss chard",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name a film directed by Wes Anderson",
+              "answer": "The Life Aquatic with Steve Zissou",
+              "points": 30,
+              "depth_m": 300
+            },
+            {
+              "prompt": "Name something in a first aid kit",
+              "answer": "Eye wash",
+              "points": 60,
+              "depth_m": 600
+            },
+            {
+              "prompt": "Name a type of diet",
+              "answer": "Mediterranean diet",
+              "points": 10,
+              "depth_m": 100
+            },
+            {
+              "prompt": "Name a country with an animal on its flag (constituent countries don't count)",
+              "answer": "Papua New Guinea",
+              "points": 60,
+              "depth_m": 600
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "eval_count": 100,
+  "eval_dates": 15,
+  "models": {
+    "base": {
+      "mean_score": 12.85,
+      "matched_rate": 0.71
+    },
+    "sft": {
+      "mean_score": 22.95,
+      "matched_rate": 0.64
+    },
+    "control": {
+      "mean_score": 15.85,
+      "matched_rate": 0.3
+    },
+    "synthetic": {
+      "mean_score": 18.4,
+      "matched_rate": 0.35
+    }
+  },
+  "synthetic_minus_control_mean": 2.55,
+  "synthetic_minus_control_day_bootstrap_95pct": [
+    -1.9902912621359223,
+    7.319587628865979
+  ],
+  "bootstrap_seed": 42,
+  "bootstrap_resamples": 20000
+}

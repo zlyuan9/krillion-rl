@@ -1,0 +1,40 @@
+{
+  "prompt_count": 100,
+  "candidate_pool": "1 greedy + 7 sampled",
+  "ranking": "mean completion token log probability under the model",
+  "selection": "highest-ranked exact answer-sheet match; fuzzy spelling only if no exact match",
+  "display_score": "complete seven-round dive depth in metres",
+  "models": {
+    "base": {
+      "exact_mean": 18.8,
+      "fuzzy_mean": 18.8,
+      "exact_match_rate": 0.96,
+      "demo_mean_depth_m": 1313.3333333333333
+    },
+    "sft": {
+      "exact_mean": 37.2,
+      "fuzzy_mean": 37.2,
+      "exact_match_rate": 0.94,
+      "demo_mean_depth_m": 2656.6666666666665
+    },
+    "grpo": {
+      "exact_mean": 37.0,
+      "fuzzy_mean": 37.0,
+      "exact_match_rate": 0.93,
+      "demo_mean_depth_m": 2643.3333333333335
+    }
+  },
+  "sft_minus_base_mean": 18.400000000000002,
+  "sft_minus_base_day_bootstrap_95pct": [
+    14.141414141414142,
+    22.989690721649485
+  ],
+  "grpo_minus_sft_mean": -0.20000000000000284,
+  "grpo_minus_sft_day_bootstrap_95pct": [
+    -5.404040404040404,
+    4.191919191919192
+  ],
+  "bootstrap_resamples": 20000,
+  "bootstrap_seed": 42,
+  "demo_dive_count": 15
+}

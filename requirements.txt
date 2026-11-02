@@ -1,0 +1,6 @@
+beautifulsoup4==4.14.3
+datasets==4.8.4
+peft==0.19.1
+torch==2.10.0
+transformers==5.8.1
+trl==1.4.0
