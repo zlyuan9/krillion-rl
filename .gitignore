@@ -9,3 +9,4 @@ results/*
 !results/qwen35_4b_fresh_rules_summary.json
 !results/rerank_summary.json
 !results/today_2026-11-01_score.json
+!results/today_2026-11-02_score.json
