@@ -1,0 +1,14 @@
+{
+  "model": "Qwen/Qwen3.5-4B",
+  "checkpoint": "base post-trained model; no Krillion fine-tuning",
+  "prompt_style": "rules",
+  "thinking": false,
+  "candidate_count": 8,
+  "decoding": "1 greedy + 7 samples, temperature=0.8, top_p=0.95, 24 new tokens",
+  "prompt_count": 100,
+  "selected_mean_points": 17.25,
+  "pool_best_mean_points": 26.1,
+  "pool_match_rate": 0.95,
+  "mean_unique_candidates": 3.32,
+  "pool_beats_selected_count": 31
+}

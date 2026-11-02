@@ -2,6 +2,7 @@
 
 import argparse
 import json
+import statistics
 
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
@@ -47,10 +48,16 @@ def main():
                "selected_mean_points": sum(r["selected"]["score"] for r in records) / len(records),
                "pool_best_mean_points": sum(r["pool_best_points"] for r in records) / len(records),
                "pool_match_rate": sum(r["pool_best_points"] > 0 for r in records) / len(records),
+               "mean_unique_candidates": statistics.mean(len(r["ranked_candidates"]) for r in records),
+               "pool_beats_selected_count": sum(r["pool_best_points"] > r["selected"]["score"]
+                                                for r in records),
                "records": records}
     suffix = f"_smoke{args.limit}" if args.limit else ""
     out = ROOT / "results" / f"qwen35_4b_fresh_rules{suffix}.json"
     out.write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n")
+    compact = {k: v for k, v in summary.items() if k != "records"}
+    (ROOT / "results" / f"qwen35_4b_fresh_rules{suffix}_summary.json").write_text(
+        json.dumps(compact, ensure_ascii=False, indent=2) + "\n")
     print(f"selected={summary['selected_mean_points']:.2f}, "
           f"pool_best={summary['pool_best_mean_points']:.2f}; saved {out}")
 

@@ -154,6 +154,33 @@ python3 rerank.py --count 8 --adapter grpo
 python3 summarize_rerank.py
 ```
 
+## Stronger model baseline
+
+`compare_4b.py` evaluates cached `Qwen/Qwen3.5-4B` without Krillion fine-tuning
+on the same 100 September prompts. It disables thinking, uses the rules-aware
+prompt, and generates one greedy plus seven sampled responses. The matching
+and likelihood ranking are the same as above. The older Llama results used the
+original prompt, so this is a practical baseline comparison rather than a
+controlled test of model size alone.
+
+| Model | Selected mean points | Best answer in generated pool | Mean distinct answers |
+| --- | ---: | ---: | ---: |
+| Llama 3.2 1B base | 18.80 | 28.60 | 3.97 |
+| Llama 3.2 1B Krillion SFT | **37.20** | **55.10** | 6.60 |
+| Qwen3.5 4B, no Krillion training | 17.25 | 26.10 | 3.32 |
+
+For Qwen, the pool contained a higher-scoring answer than the likelihood
+selection on 31 of 100 prompts. The SFT pool had a higher-scoring answer on
+47 prompts. Task training helped both answer diversity and answer quality in
+this pilot; simply moving to this larger zero-shot model did not. These
+"best in pool" scores require the archived sheet and are diagnostic upper
+bounds, not deployable scores. Qwen's aggregate output is in
+[`results/qwen35_4b_fresh_rules_summary.json`](results/qwen35_4b_fresh_rules_summary.json).
+
+```sh
+python3 compare_4b.py
+```
+
 ## November 1, 2026 live-day demo
 
 `run.py` now also defines `SYSTEM_RULES`, which tells the model that accepted,
